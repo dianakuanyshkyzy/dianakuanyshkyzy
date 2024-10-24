@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">An aspiring frontend developer from Kazakhstan</h3>
+<h3 align="center">An aspiring fullstack developer from Astana, KZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dianakuanyshkyzy&label=Profile%20views&color=0e75b6&style=flat" alt="dianakuanyshkyzy" /> </p>
 
